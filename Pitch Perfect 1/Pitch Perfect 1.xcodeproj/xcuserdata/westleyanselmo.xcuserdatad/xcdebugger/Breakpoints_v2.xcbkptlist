@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect 1/RecordedAudio.swift"
+            timestampString = "449460947.791926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_1.RecordedAudio.filePathUrl.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect 1"
+                  urlString = "file:///Users/westleyanselmo/Documents/Development/iOS/Pitch%20Perfect%201/Pitch%20Perfect%201/RecordedAudio.swift"
+                  timestampString = "449461059.413783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_1.RecordedAudio.filePathUrl.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect 1"
+                  urlString = "file:///Users/westleyanselmo/Documents/Development/iOS/Pitch%20Perfect%201/Pitch%20Perfect%201/RecordedAudio.swift"
+                  timestampString = "449461059.414377"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_1.RecordedAudio.init (Pitch_Perfect_1.RecordedAudio.Type)() -&gt; Pitch_Perfect_1.RecordedAudio"
+                  moduleName = "Pitch Perfect 1"
+                  urlString = "file:///Users/westleyanselmo/Documents/Development/iOS/Pitch%20Perfect%201/Pitch%20Perfect%201/RecordedAudio.swift"
+                  timestampString = "449461059.414946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect 1/RecordedAudio.swift"
+            timestampString = "449460947.854648"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_1.RecordedAudio.filePathUrl.getter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect 1"
+                  urlString = "file:///Users/westleyanselmo/Documents/Development/iOS/Pitch%20Perfect%201/Pitch%20Perfect%201/RecordedAudio.swift"
+                  timestampString = "449461059.440032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_1.RecordedAudio.filePathUrl.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect 1"
+                  urlString = "file:///Users/westleyanselmo/Documents/Development/iOS/Pitch%20Perfect%201/Pitch%20Perfect%201/RecordedAudio.swift"
+                  timestampString = "449461059.440529"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_1.RecordedAudio.init (Pitch_Perfect_1.RecordedAudio.Type)() -&gt; Pitch_Perfect_1.RecordedAudio"
+                  moduleName = "Pitch Perfect 1"
+                  urlString = "file:///Users/westleyanselmo/Documents/Development/iOS/Pitch%20Perfect%201/Pitch%20Perfect%201/RecordedAudio.swift"
+                  timestampString = "449461059.440692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
